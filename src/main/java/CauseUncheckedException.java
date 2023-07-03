@@ -16,6 +16,8 @@ public class CauseUncheckedException {
     public static void main(String [] argd){
 
     }
+
+    
     public void throwUncheckedException(){
         int num = 10;
          num  /= 0;
